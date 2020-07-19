@@ -42,22 +42,7 @@ if __name__ == '__main__': # Start from main
     plt.show() # show plot
     
     
-    
-
-
-# In[20]:
-
-
-data['Sepal width']
-
-
-# In[11]:
-
-
-
-
-
-# In[ ]:
+   
 
 
 
